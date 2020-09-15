@@ -33,4 +33,4 @@ npm install or yarn install
 npm run dev or yarn dev
 ```
 
-打开 [http://localhost:3000](http://localhost:3000)可以看到后台页面
+打开 [http://localhost:3000](http://localhost:7001)可以看到后台页面
